@@ -1,0 +1,9 @@
+JWT_SECRET=CLOUDINARY_URL=demoexample@2904api
+MONGO_LOCAL_CONN_URL=mongodb+srv://ypritwani:Yash2904%40@knowledgehub-database-zu4vn.mongodb.net/node3?retryWrites=true&w=majority
+
+CLOUD_NAME=yashcloud2904
+CLOUD_API_KEY=237362699974899
+CLOUD_API_SECRET=thEerobQKYGI-NC5jZ-yPdceDhM
+
+SENDGRID_API_KEY=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
+FROM_EMAIL=appmailer89@gmail.com
